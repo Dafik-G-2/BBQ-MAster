@@ -61,7 +61,7 @@ INTRO SECTION
 ==== */
 .intro{
     background-color: #404040;
-    background-image: url(../images/ribs.jpg),linear-gradient(45deg,red,blue);
+    background-image: url(/images/ribs.jpg),linear-gradient(45deg,red,blue);
     background-blend-mode: overlay;
     background-position: center;
     background-size: cover;
